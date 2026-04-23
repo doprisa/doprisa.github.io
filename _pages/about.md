@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: about
 permalink: /
 subtitle: Physics-grounded AI — where the Laplacian vanishes
@@ -37,7 +37,6 @@ The name says it: NullDeltaQ is the null space of the Laplacian of Q — the har
 - Dirichlet energy as structural prior in learning systems
 - Dynamical systems as foundation for inference
 
-Find me on [LinkedIn](https://www.linkedin.com/in/danoprisa/).
 
 
 [LinkedIn](https://www.linkedin.com/in/danoprisa/) · [arXiv](https://arxiv.org/search/?searchtype=author&query=Oprisa%2C+D)
