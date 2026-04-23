@@ -14,9 +14,9 @@ collection: books
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<a href="https://openlibrary.org/isbn/9780521636360
+<a href="https://openlibrary.org/isbn/0521636361
 " target="_blank">
-  <img src="https://covers.openlibrary.org/b/isbn/9780521636360-M.jpg" 
+  <img src="https://covers.openlibrary.org/b/isbn/0521636361-M.jpg" 
        style="height: 200px; width: auto;">
 </a>
 
