@@ -29,9 +29,7 @@ PhD in mathematical physics. 16 years building ML that ships. Now doing both at 
 
 The name says it: NullDeltaQ is the null space of the Laplacian of Q — the harmonic regime where Dirichlet energy vanishes. That's the mathematical condition we're building toward.
 
-**Background:** I spent 16 years leading data science and ML organizations across fintech, banking, and a global travel platform — close enough to production to know what breaks, senior enough to decide what gets built. In 2024 I stepped back from operating roles to focus entirely on the research question I couldn't stop thinking about: what happens when you build AI from physical first principles rather than statistical ones?
-
-That research produced our first publication (April 2026). NullDeltaQ is what comes next.
+**Background:** I spent 16 years leading data science and ML organizations across fintechs financial services, online and data platforms — close enough to production to know what breaks, senior enough to decide what gets built. In 2024 I stepped back from operating roles to focus entirely on the research question I couldn't stop thinking about: what happens when you build AI from physical first principles rather than statistical ones?
 
 **Research focus:**
 - Energy-based models and their physical interpretation
