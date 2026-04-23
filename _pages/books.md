@@ -25,9 +25,9 @@ collection: books
   <img src="https://covers.openlibrary.org/b/isbn/0471815187-M.jpg" 
        style="height: 200px; width: auto;">
 
-<a href="https://openlibrary.org/isbn/0387947914
+<a href="https://openlibrary.org/isbn/0521483719
 " target="_blank">
-  <img src="https://covers.openlibrary.org/b/isbn/0387947914-M.jpg" 
+  <img src="https://covers.openlibrary.org/b/isbn/0521483719-M.jpg" 
        style="height: 200px; width: auto;">
 
 
