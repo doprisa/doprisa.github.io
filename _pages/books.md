@@ -82,9 +82,9 @@ collection: books
   <img src="https://covers.openlibrary.org/b/isbn/0738200921-M.jpg" 
        style="height: 200px; width: auto;">
 
-<a href="https://openlibrary.org/isbn/3662701065
+<a href="https://openlibrary.org/isbn/3662536218
 " target="_blank">
-  <img src="https://covers.openlibrary.org/b/isbn/3662701065-M.jpg" 
+  <img src="https://covers.openlibrary.org/b/isbn/3662536218-M.jpg" 
        style="height: 200px; width: auto;">
 
 <a href="https://openlibrary.org/isbn/3319684388
@@ -92,9 +92,5 @@ collection: books
   <img src="https://covers.openlibrary.org/b/isbn/3319684388-M.jpg" 
        style="height: 200px; width: auto;">
 
-<a href="https://openlibrary.org/isbn/
-" target="_blank">
-  <img src="https://covers.openlibrary.org/b/isbn/-M.jpg" 
-       style="height: 200px; width: auto;">
 
 
