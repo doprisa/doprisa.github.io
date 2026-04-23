@@ -6,12 +6,12 @@ subtitle: Physics-grounded AI — where the Laplacian vanishes
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: phase_space.png
   image_circular: false
   more_info: >
-    <p>NullDeltaQ</p>
-    <p>Bangkok, Thailand</p>
-    <p><a href="mailto:you@nulldeltaq.ai">you@nulldeltaq.ai</a></p>
+    <p></p>
+    <p></p>
+    <p></p>
 
 selected_papers: true
 social: true
