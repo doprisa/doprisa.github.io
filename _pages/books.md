@@ -72,11 +72,6 @@ collection: books
   <img src="https://covers.openlibrary.org/b/isbn/0201554097-M.jpg" 
        style="height: 200px; width: auto;">
 
-<a href="https://openlibrary.org/isbn/0201360756
-" target="_blank">
-  <img src="https://covers.openlibrary.org/b/isbn/0201360756-M.jpg" 
-       style="height: 200px; width: auto;">
-
 <a href="https://openlibrary.org/isbn/0738200921
 " target="_blank">
   <img src="https://covers.openlibrary.org/b/isbn/0738200921-M.jpg" 
