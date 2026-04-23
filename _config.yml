@@ -136,7 +136,7 @@ scholar:
 enable_publication_badges:
   altmetric: false
   dimensions: true
-  google_scholar: true
+  google_scholar: false
   inspirehep: false
 
 enable_publication_thumbnails: false
@@ -148,7 +148,7 @@ enable_publication_thumbnails: false
 enable_google_analytics: false
 enable_math: true
 enable_darkmode: true
-enable_navbar_social: true
+enable_navbar_social: false
 enable_project_categories: false
 enable_medium_zoom: true
 enable_masonry: true
