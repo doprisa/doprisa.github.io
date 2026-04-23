@@ -61,9 +61,9 @@ collection: books
        style="height: 200px; width: auto;">
 
 
-<a href="https://openlibrary.org/isbn/0387947914
+<a href="https://openlibrary.org/isbn/038798738X
 " target="_blank">
-  <img src="https://covers.openlibrary.org/b/isbn/0387947914-M.jpg" 
+  <img src="https://covers.openlibrary.org/b/isbn/038798738X-M.jpg" 
        style="height: 200px; width: auto;">
 
 
@@ -77,13 +77,24 @@ collection: books
   <img src="https://covers.openlibrary.org/b/isbn/0201360756-M.jpg" 
        style="height: 200px; width: auto;">
 
-<a href="https://openlibrary.org/isbn/9780470941638
+<a href="https://openlibrary.org/isbn/0738200921
 " target="_blank">
-  <img src="https://covers.openlibrary.org/b/isbn/9780470941638-M.jpg" 
+  <img src="https://covers.openlibrary.org/b/isbn/0738200921-M.jpg" 
        style="height: 200px; width: auto;">
 
 <a href="https://openlibrary.org/isbn/3662701065
 " target="_blank">
   <img src="https://covers.openlibrary.org/b/isbn/3662701065-M.jpg" 
        style="height: 200px; width: auto;">
+
+<a href="https://openlibrary.org/isbn/3319684388
+" target="_blank">
+  <img src="https://covers.openlibrary.org/b/isbn/3319684388-M.jpg" 
+       style="height: 200px; width: auto;">
+
+<a href="https://openlibrary.org/isbn/
+" target="_blank">
+  <img src="https://covers.openlibrary.org/b/isbn/-M.jpg" 
+       style="height: 200px; width: auto;">
+
 
